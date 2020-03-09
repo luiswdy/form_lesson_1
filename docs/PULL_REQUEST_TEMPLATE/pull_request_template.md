@@ -77,4 +77,4 @@ Tags:
 # * Version: 6.0.2
 # * Updated: 2018-08-27T22:15:57Z
 # * Licence: GNU General Public License (GPL-3.0)
-# * Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+# * Contact: Luis Wu (lunarseawu@gmail.com)
