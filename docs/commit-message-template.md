@@ -1,8 +1,8 @@
 # <Subject> 
-# Summarize changes in around 50 chars or less in one line.  
+# Summarize changes with 72 chars or less in one line.  
 # Capitalize the subject line and don't end it with a period
 # Imperative mood. e.g. Fix a log-in crash bug 
-#|===============================================|
+#|=====================================================================|
 
 # <Body> 
 # The detail explanation of the change, if necessary
@@ -26,5 +26,5 @@
 # For instance: [Add] A new feature
 
 # <Skip CI>
-# Uncomment the following line if you want CI to skip this change
+# Uncomment the following line if you want CI to skip this change.For instance, the change is just bumping the marketing version
 # [ci skip]
