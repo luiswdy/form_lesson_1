@@ -1,5 +1,14 @@
+# Before issuing the pull request
+- [ ] Completed unit tests wihtout failures
+- [ ] Successfully built Dr. Who
+- [ ] No fixable warnings 
+
 [comment]: # (===== BUG FIX / HOTFIX TEMPLATE =====)
 [comment]: # (If you issue a pull request for a bug fix or a hotfix, use this template)
+# Feature branch checklist
+- [ ] Unit tests included
+- [ ] Tested the feature
+
 # Problem description
 [comment]: # (Describe briefly the bug)
 
@@ -9,13 +18,14 @@
 # How did you test the fix?
 [comment]: # (Explain the way to verify your fix)
 
-# JIRA ticket
-[comment]: # (Put the corresponding JIRA ticket's link here)
+# JIRA ticket(s)
+[comment]: # (Put the corresponding JIRA ticket's links here)
 
 [comment]: # (===== END OF BUG FIX / HOTFIX TEMPLATE =====)
 
 [comment]: # ( ===== FEATURE TEMPLATE =====)
 [comment]: # (If you issue a pull request for a FEATURE, use this template)
+
 # Summary
 [comment]: # (Summarize the business goal achieved and the design)
 
