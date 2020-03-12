@@ -1,5 +1,5 @@
 # Before issuing the pull request
-- [ ] Completed unit tests wihtout failures
+- [ ] Completed unit tests without failures
 - [ ] Successfully built Dr. Who
 - [ ] No fixable warnings 
 
