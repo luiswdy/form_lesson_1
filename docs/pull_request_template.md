@@ -1,80 +1,44 @@
-iAdd your title here
+# Before issuing the pull request
+- [ ] Completed unit tests wihtout failures
+- [ ] Successfully built Dr. Who
+- [ ] No fixable warnings 
 
-# See links to relevant web pages, issue trackers, blog articles, etc.
-See: https://example.com/
-See: [Example Page](https://example.com/)
+[comment]: # (===== BUG FIX / HOTFIX TEMPLATE =====)
+[comment]: # (If you issue a pull request for a bug fix or a hotfix, use this template)
+# Feature branch checklist
+- [ ] Unit tests included
+- [ ] Tested the feature
 
-# List all co-authors, so version control systems can connect teams.
-Co-authored-by: Name <name@example.com>
-Co-authored-by: Name <name@example.com>
+# Problem description
+[comment]: # (Describe briefly the bug)
 
-# Why is this change happening, e.g. goals, use cases, stories, etc.?
-Why:
+# Root cause
+[comment]: # (Explain the root cause)
 
-# How is this change happening, e.g. implementations, algorithms, etc.?
-How:
+# How did you test the fix?
+[comment]: # (Explain the way to verify your fix)
 
-# Tags suitable for searching, such as hashtags, keywords, etc.
-Tags:
+# JIRA ticket(s)
+[comment]: # (Put the corresponding JIRA ticket's links here)
 
-# ## Help ##
-#
-# Subject line imperative uppercase verbs:
-#
-#   Add = Create a capability e.g. feature, test, dependency.
-#   Drop = Delete a capability e.g. feature, test, dependency.
-#   Fix = Fix an issue e.g. bug, typo, accident, misstatement.
-#   Bump = Increase the version of something e.g. a dependency.
-#   Make = Change the build process, or tools, or infrastructure.
-#   Start = Begin doing something; e.g. enable a toggle, feature flag, etc.
-#   Stop = End doing something; e.g. disable a toggle, feature flag, etc.
-#   Optimize = A change that MUST be just about performance, e.g. speed up code.
-#   Document = A change that MUST be only in the documentation, e.g. help files.
-#   Refactor = A change that MUST be just refactoring.
-#   Reformat = A change that MUST be just format, e.g. indent line, trim space, etc.
-#   Rephrase = A change that MUST be just textual, e.g. edit a comment, doc, etc.
-#
-# For the subject line:
-#   * Use 50 characters maximum.
-#   * Do not use a sentence-ending period.
-#
-# For the body text:
-#   * Use as many lines as you like.
-#   * Use 72 characters maximum per line for typical word wrap text.
-#
-#
-# ## About ##
-#
-# This is our team's starting point for our git commit messages.
-# You can edit this template as you like, to customize it.
-#
-# For more information about git commit ideas and help:
-# https://github.com/joelparkerhenderson/git_commit_message
-#
-#
-# ## Usage ##
-#
-# Put the template file here:
-#
-#     ~/.git_commit_template.txt
-#
-# Configure git to use the template file by running:
-#
-#     git config --global commit.template ~/.git_commit_template.txt
-#
-# Add the template file to the ~/.gitconfig file:
-#
-#     [commit]
-#       template = ~/.git_commit_template.txt
-#
-# If you prefer other file locations or ways of working,
-# you can freely adjust the usage as you like.
-#
-#
-# ## Tracking ##
-#
-# * Package: git_commit_message.txt
-# * Version: 6.0.2
-# * Updated: 2018-08-27T22:15:57Z
-# * Licence: GNU General Public License (GPL-3.0)
-# * Contact: Luis Wu (lunarseawu@gmail.com)
+[comment]: # (===== END OF BUG FIX / HOTFIX TEMPLATE =====)
+
+[comment]: # ( ===== FEATURE TEMPLATE =====)
+[comment]: # (If you issue a pull request for a FEATURE, use this template)
+
+# Summary
+[comment]: # (Summarize the business goal achieved and the design)
+
+# UML
+[comment]: # (If you have UML diagrams to put along with, put them here)
+[comment]: # (Remove this section if you don't)
+
+# Screentshots
+[comment]: # (If you have screenshots to put along with, put them here)
+[comment]: # (Remove this section if you don't)
+
+# References
+[comment]: # (Put the links of feature's design document here,)
+[comment]: # (or any other references that help the reviewing)
+
+[comment]: # (===== END OF FEATURE TEMPLATE =====)
