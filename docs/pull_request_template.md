@@ -33,7 +33,7 @@
 [comment]: # (If you have UML diagrams to put along with, put them here)
 [comment]: # (Remove this section if you don't)
 
-# Screentshots
+# Screenshots
 [comment]: # (If you have screenshots to put along with, put them here)
 [comment]: # (Remove this section if you don't)
 
